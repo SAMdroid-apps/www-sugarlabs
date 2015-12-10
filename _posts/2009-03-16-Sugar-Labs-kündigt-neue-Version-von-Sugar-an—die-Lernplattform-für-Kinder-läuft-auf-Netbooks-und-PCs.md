@@ -61,4 +61,3 @@ Entwickler, Pädagogen, Designer, Übersetzer und Anwender,” sagt Bender. “V
 allem brauchen wir Software-Tester, die uns helfen aus Sugar on a Stick eine
 Alternative zu vorhandener Software auf allen verfügbaren Computern zu
 machen.”
--
