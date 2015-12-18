@@ -1,0 +1,173 @@
+[33mcommit f03869f0f692c1bb3b202363d49396aae78a96cb[m
+Author: Piotr <piotrantosz@protonmail.ch>
+Date:   Fri Dec 18 17:53:21 2015 +0100
+
+    SEO improve
+
+[33mcommit c61fa49c124fcbb77863e754ba3f318345375c94[m
+Author: Piotr <piotrantosz@protonmail.ch>
+Date:   Thu Dec 10 19:46:27 2015 +0100
+
+    Rebranding background, footer, inquiry
+    
+    Load background from local files
+    
+    Add credit
+    
+    Add second type grid
+    
+    Getting started page
+    
+    Change screenshot old version to new
+    
+    Change screenshot old version to new
+    
+    New screenshotes & One core sugar)
+    
+    Change pointing style
+
+[33mcommit 31f8e69b5ac6b64d306d86d6d7e0020364efc9d7[m
+Author: Piotr <piotrantosz@protonmail.ch>
+Date:   Wed Dec 9 13:33:35 2015 +0100
+
+    Add alt's & title's
+
+[33mcommit 81d79770da4d2a4363de8bf4665833018cee5e82[m
+Author: Piotr <piotrantosz@protonmail.ch>
+Date:   Wed Dec 9 09:44:57 2015 +0100
+
+    Add back to top link
+
+[33mcommit 835018f3ad1ca86af957b59533fab00034b19a3b[m
+Author: Sam Parkinson <sam@sam.today>
+Date:   Sun Oct 25 09:04:11 2015 +1100
+
+    Fix typos
+
+[33mcommit b98cb5e99079f8a4d25965c74c22a94d861ff595[m
+Author: Sam Parkinson <sam@sam.today>
+Date:   Thu Oct 15 20:17:09 2015 +1100
+
+    Hide TODOs to deploy website to production
+
+[33mcommit afb99984316fdf488df7b3e9bbc835610c94070e[m
+Author: Sam Parkinson <sam@sam.today>
+Date:   Thu Oct 15 20:16:53 2015 +1100
+
+    Add a sitemap
+
+[33mcommit 4bb09376823b924d2351bdc09deb531731fa34b9[m
+Author: Sam Parkinson <sam@sam.today>
+Date:   Thu Oct 8 21:13:16 2015 +1100
+
+    Redo the entrire site now it reflects modern Sugar better
+
+[33mcommit 687129efa5a89f87ad3943d8e94a6cf44550d284[m
+Author: Sam Parkinson <sam.parkinson3@gmail.com>
+Date:   Sun Mar 1 07:31:05 2015 +1100
+
+    Add a video background
+
+[33mcommit e60c80060649eee1de8fb4521e6b2c7ec0a9a122[m
+Author: Sam Parkinson <sam.parkinson3@gmail.com>
+Date:   Sat Feb 28 08:18:39 2015 +1100
+
+    Clean up the activities display - use a preprocessor not iframe
+
+[33mcommit 538a7a79c712390184b85ec91a207cd115641a71[m
+Author: Sam Parkinson <sam.parkinson3@gmail.com>
+Date:   Sat Feb 28 07:20:19 2015 +1100
+
+    Give the website a sugar like design
+
+[33mcommit a4fce1938fd6fa296d4dc08a1cf05ae7cb244258[m
+Merge: 24035b3 c06865c
+Author: Walter Bender <walter@sugarlabs.org>
+Date:   Thu Feb 26 16:37:11 2015 -0500
+
+    Merge pull request #7 from ty221/footerfix
+    
+    Invalid color of text in footer fix
+
+[33mcommit c06865c10ad7272efb848673f79d96834e15cedc[m
+Author: ty221 <dwgipk@gmail.com>
+Date:   Thu Feb 26 20:35:45 2015 +0100
+
+    Invalid color of text in footer fix
+
+[33mcommit 24035b38f40ed3198c5d5ac160a6f7401b408dcd[m
+Merge: 085d009 aed6782
+Author: Walter Bender <walter@sugarlabs.org>
+Date:   Thu Feb 26 13:29:05 2015 -0500
+
+    Merge pull request #6 from ty221/patch-1
+    
+    Please... navy blue is really ugly in this case.
+
+[33mcommit 085d009c8ba7d26460254a6a9cd486a87327d822[m
+Merge: b4a23e6 1a62c60
+Author: Walter Bender <walter@sugarlabs.org>
+Date:   Thu Feb 26 13:27:52 2015 -0500
+
+    Merge pull request #5 from ty221/optipng
+    
+    Loseless compression of social icons
+
+[33mcommit aed6782987d077f554c00d03b071acec593b9d66[m
+Author: Tymon Radzik <dwgipk@gmail.com>
+Date:   Thu Feb 26 19:23:52 2015 +0100
+
+    Please... navy blue is really ugly in this case.
+    
+    It is also very tiring for eyes. Tested on myself and my friends.
+
+[33mcommit 1a62c6042e7e421f36fa68227cc5783a36a89952[m
+Author: ty221 <dwgipk@gmail.com>
+Date:   Thu Feb 26 18:07:51 2015 +0100
+
+    Loseless compression of social icons
+
+[33mcommit b4a23e6e3f8603c609eaa3d3eb6e4ee785cc8ca5[m
+Merge: 9d9957c edc5752
+Author: Walter Bender <walter@sugarlabs.org>
+Date:   Thu Feb 26 11:29:39 2015 -0500
+
+    Merge pull request #3 from ty221/patch-1
+    
+    README file created
+
+[33mcommit edc5752309612a1ce48dbd3b5d9c94f126a3a7cf[m
+Author: Tymon Radzik <dwgipk@gmail.com>
+Date:   Thu Feb 26 17:28:30 2015 +0100
+
+    README file created
+
+[33mcommit 9d9957ca7efd5a5a9677a0bc79295d32d7af0e9c[m
+Merge: 2bae629 447a045
+Author: Walter Bender <walter@sugarlabs.org>
+Date:   Thu Feb 26 11:16:59 2015 -0500
+
+    Merge pull request #2 from ty221/dirspam
+    
+    Removed all unused files - cleaned up directory
+
+[33mcommit 447a045b13f75f9fade8681117da79f03853835f[m
+Author: ty221 <dwgipk@gmail.com>
+Date:   Thu Feb 26 17:07:20 2015 +0100
+
+    Removed all unused files - cleaned up directory
+
+[33mcommit 2bae62981a3259e676a49304d5b2ce6c6eedfa3b[m
+Merge: e567e90 d0ec13d
+Author: Walter Bender <walter@sugarlabs.org>
+Date:   Thu Feb 26 10:48:36 2015 -0500
+
+    Merge pull request #1 from ty221/welcomejekyll
+    
+    Welcome Jekyll, inital new website
+
+[33mcommit d0ec13de9fa5e8a16c0165d2ed1cdc364ce67f15[m
+Author: ty221 <dwgipk@gmail.com>
+Date:   Thu Feb 26 16:44:33 2015 +0100
+
+    Removed unused files
